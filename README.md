@@ -1,25 +1,40 @@
-# Final Project: Article Summarizer
+# Module 7 (Final Project): Article Summarizer
 
-Complete the tasks in the Python Notebook in this repository.
-Make sure to add and push the pkl or text file of your scraped html (this is specified in the notebook)
+## Introduction: 
+The project is a Python-based text analysis tool that performs sentiment analysis on articles retrieved from online sources. It utilizes natural language processing (NLP) techniques to analyze the sentiment of articles and provides insights into the emotional tone of the text.
 
-## Rubric
+## Key Features:
+* Retrieving articles from specified URLs.
+* Parsing the HTML content of articles and extracting the main text.
+* Analyzing the sentiment of the text using both token-based and lemma-based approaches.
+* Generating histograms to visualize the distribution of sentiment scores.
+* Summarizing articles based on their sentiment scores, providing concise summaries of the main points.
 
-* (Question 1) Article html stored in separate file that is committed and pushed: 1 pt
-* (Question 2) Polarity score printed with an appropriate label: 1 pt
-* (Question 2) Number of sentences printed: 1 pt
-* (Question 3) Correct (or equivalent in the case of multiple tokens with same frequency) tokens printed: 1 pt
-* (Question 4) Correct (or equivalent in the case of multiple lemmas with same frequency) lemmas printed: 1 pt
-* (Question 5) Histogram shown with appropriate labelling: 1 pt
-* (Question 6) Histogram shown with appropriate labelling: 1 pt
-* (Question 7) Cutoff score seems appropriate given histograms: 2 pts (1/score)
-* (Question 8) Summary contains a shortened version of the article (less than half the number of sentences): 1 pt
-* (Question 8) Summary sentences are in the same order as they appeared in the original article: 1 pt
-* (Question 9) Polarity score printed with an appropriate label: 1 pt
-* (Question 9) Number of sentences printed: 1 pt
-* (Question 10) Summary contains a shortened version of the article (less than half the number of sentences): 1 pt
-* (Question 10) Summary sentences are in the same order as they appeared in the original article: 1 pt
-* (Question 11) Polarity score printed with an appropriate label: 1 pt
-* (Question 11) Number of sentences printed: 1 pt
-* (Question 12) Thoughtful answer based on reported polarity scores: 1 pt
-* (Question 13) Thoughtful answer based on summaries: 1 pt
+## Objectives:
+This exercise is used to apply your web mining and NLP skills in a project of your choice. What do you wish we had covered more?  Explore options - your project can focus on article summarization, using an API, doing sentiment analysis, working through an online tutorial, or gathering any text corpus and finding the most common words (ideas) used, and/or using visualization to provide useful insights. 
+* Complete the tasks in the Python Notebook in this repository.
+* Make sure to add and push the pkl or text file of your scraped html (this is specified in the notebook)
+
+## Guided Project:
+This is a guided version of the project, starting with this repo: https://github.com/wmnlp-materials/article-summarizer
+
+Projects should address the following skills (using the example):
+
+Q2: Polarity score printed with appropriate label
+Q2: Number of sentences printed with appropriate label
+Q3: Correct tokens and frequencies printed
+Q4: Correct lemmas and frequencies printed
+Q5: Histogram shown with appropriate labelling
+Q6: Histogram shown with appropriate labelling
+Q7: Cutoff seems appropriate given histograms
+Q8: Summary printed with fewer than half the sentences
+Q8: Summary sentences in same order as original article
+Q9: Polarity score printed with appropriate label
+Q9: Number of sentences printed with appropriate label
+Q10: Summary printed with fewer than half the sentences
+Q10: Summary sentences in same order as original article
+Q11: Polarity score printed with appropriate label
+Q11: Number of sentences printed with appropriate label
+Q12: Thoughtful answer based on reported polarity scores
+Q13: Thoughtful answer based on summaries
+
