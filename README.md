@@ -1,4 +1,6 @@
 # Module 7 (Final Project): Article Summarizer
+Author : Prabha Sapkota Pokharel
+GithHub Repo: https://github.com/prabhasapkota/article-summarizer
 
 ## Introduction: 
 The project is a Python-based text analysis tool that performs sentiment analysis on articles retrieved from online sources. It utilizes natural language processing (NLP) techniques to analyze the sentiment of articles and provides insights into the emotional tone of the text.
@@ -20,21 +22,21 @@ This is a guided version of the project, starting with this repo: https://github
 
 Projects should address the following skills (using the example):
 
-Q2: Polarity score printed with appropriate label
-Q2: Number of sentences printed with appropriate label
-Q3: Correct tokens and frequencies printed
-Q4: Correct lemmas and frequencies printed
-Q5: Histogram shown with appropriate labelling
-Q6: Histogram shown with appropriate labelling
-Q7: Cutoff seems appropriate given histograms
-Q8: Summary printed with fewer than half the sentences
-Q8: Summary sentences in same order as original article
-Q9: Polarity score printed with appropriate label
-Q9: Number of sentences printed with appropriate label
-Q10: Summary printed with fewer than half the sentences
-Q10: Summary sentences in same order as original article
-Q11: Polarity score printed with appropriate label
-Q11: Number of sentences printed with appropriate label
-Q12: Thoughtful answer based on reported polarity scores
-Q13: Thoughtful answer based on summaries
+* Q2: Polarity score printed with appropriate label
+* Q2: Number of sentences printed with appropriate label
+* Q3: Correct tokens and frequencies printed
+* Q4: Correct lemmas and frequencies printed
+* Q5: Histogram shown with appropriate labelling
+* Q6: Histogram shown with appropriate labelling
+* Q7: Cutoff seems appropriate given histograms
+* Q8: Summary printed with fewer than half the sentences
+* Q8: Summary sentences in same order as original article
+* Q9: Polarity score printed with appropriate label
+* Q9: Number of sentences printed with appropriate label
+* Q10: Summary printed with fewer than half the sentences
+* Q10: Summary sentences in same order as original article
+* Q11: Polarity score printed with appropriate label
+* Q11: Number of sentences printed with appropriate label
+* Q12: Thoughtful answer based on reported polarity scores
+* Q13: Thoughtful answer based on summaries
 
